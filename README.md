@@ -73,7 +73,7 @@ Install from:
 
 ### Serial Output
 
-![Output](images/output.png)
+![Output](images/Output.png)
 
 ---
 
