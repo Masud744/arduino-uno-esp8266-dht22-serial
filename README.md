@@ -84,13 +84,12 @@ Install from:
 - Board: Arduino Uno & Wemos D1 Mini
 
 ---
-
 ## Author
 
-Shahriar Alom Masud
-B.Sc. Engg. in IoT & Robotics Engineering
-University of Frontier Technology, Bangladesh
-📧 Email: shahriar0002@std.uftb.ac.bd
+**Shahriar Alom Masud**  
+B.Sc. Engg. in IoT & Robotics Engineering  
+University of Frontier Technology, Bangladesh  
+📧 Email: shahriar0002@std.uftb.ac.bd  
 🔗 LinkedIn: https://www.linkedin.com/in/shahriar-alom-masud
 
 ---
